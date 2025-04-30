@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rahulsi33688377" target="blank"><img src="https://img.shields.io/twitter/follow/rahulsi33688377?logo=twitter&style=for-the-badge" alt="rahulsi33688377" /></a> </p>
 
-- 🔭 I’m currently working on [WebJadugar](https://cloud.webjadugar.tech)
+- 🔭 I’m currently working on [WebJadugar](https://webjadugar.com)
 
 - 🌱 I’m currently learning **DevOps**
 
