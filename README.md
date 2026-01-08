@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [SIH-FIREWALL](https://github.com/rahul-singh01/SIH-FIREWALL)
 
-- 👨‍💻 All of my projects are available at [https://devrahulsingh.tech](https://hirahul.me)
+- 👨‍💻 All of my projects are available at [https://hirahul.me](https://hirahul.me)
 
 - 💬 Ask me about **React, Django, Web Scraping, Linux, Ubuntu**
 
