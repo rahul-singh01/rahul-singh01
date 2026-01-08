@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **rahulsinghrajput6090@gmail.com**
 
-- 📄 Know about my experiences [https://tnpnsut-files.s3.ap-south-1.amazonaws.com/rahul_singh_resume_NSUT_4cb53c0e3d.pdf](https://tnpnsut-files.s3.ap-south-1.amazonaws.com/rahul_singh_resume_NSUT_4cb53c0e3d.pdf)
-
 - ⚡ Fun fact **I love to sing songs.**
 
 ### Blogs posts
